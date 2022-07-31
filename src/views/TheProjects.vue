@@ -25,7 +25,7 @@
     <hr class="bg-squgily bg-repeat border-0 h-[6px] opacity-25" />
     <div class="flex flex-col gap-2">
       <h3 class="text-3xl font-theme_bold text-head_text">Graveyard</h3>
-      <p>Python projects I worked on and are no longer maintained.</p>
+      <p>Some projects I worked on and are no longer maintained.</p>
       <div class="flex flex-col mt-10 gap-8">
         <div v-for="proj in grave" :key="proj.id" class="flex flex-col gap-1">
           <a class="font-theme_bold text-head_text text-lg" :href="proj.link"

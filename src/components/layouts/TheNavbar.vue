@@ -6,7 +6,7 @@
     <router-link
       to="/"
       class="font-logo text-3xl font-normal select-none slg:font-semibold lg:text-4xl"
-      >Aniket</router-link
+      >Vito Anggana</router-link
     >
     <div class="flex text-sm items-center gap-1 sm:gap-4">
       <router-link
