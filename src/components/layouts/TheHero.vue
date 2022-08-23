@@ -7,7 +7,7 @@
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
       Hi Vito Anggana!, I'm everyone. an Indonesian Junior Front-end Developer graduated from Vocational Highschool SMK
       Wikrama Bogor with 1 or more Work Experience, and never-stopping love for learning new tech. I am
-      specialising in Web Development with HTML,CSS,JS.
+      specialising in Web Development with HTML, CSS, JS.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
       Beside than coding, I have experience working for
