@@ -6,7 +6,7 @@
       currently I am a Freelance Programmer looking for another chance where I can learn and gain experience.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      I'm currently working for
+      Beside than coding, I have experience working for
       <LinkBtn link="https://mahakamedia.com/">Mahaka Media</LinkBtn>, as a Content Creator and Content Planner
       Freelancer and I manage 2 of
       their Cafes <LinkBtn link="https://www.instagram.com/sixdegreesentul/">Six Degrees</LinkBtn> and <LinkBtn

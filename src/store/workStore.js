@@ -5,11 +5,11 @@ export const useWorkStore = defineStore("workStore", {
     works: [
       {
         id: 1,
-        name: "Mahaka Media",
-        position: "Content Creator/Planner",
-        from: "2022",
+        name: "Freelancer",
+        position: "Front-End Web Developer",
+        from: "2020",
         to: "Cur.",
-        link: "https://mahakamedia.com/",
+        link: "https://www.linkedin.com/in/vitoprwr/",
       },
     ],
   }),
