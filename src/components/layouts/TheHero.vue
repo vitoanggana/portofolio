@@ -10,10 +10,10 @@
       specialising in Web Development with HTML,CSS,JS.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      I'm currently working for
+      Beside than coding, I have experience working for
       <LinkBtn link="https://mahakamedia.com/">Mahaka Media</LinkBtn>, as a Content Creator and Content Planner Freelancer and I manage 2 of
       their Cafes <LinkBtn link="https://www.instagram.com/sixdegreesentul/">Six Degrees</LinkBtn> and <LinkBtn
-        link="https://www.instagram.com/jatuhhati_sentul/">Jatuh Hati</LinkBtn>. I previously worked at
+        link="https://www.instagram.com/jatuhhati_sentul/">Jatuh Hati</LinkBtn>. And previously worked at
       <LinkBtn link="https://xcidic.com/">Xcidic</LinkBtn>, as an Internship Front-end Developer.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
