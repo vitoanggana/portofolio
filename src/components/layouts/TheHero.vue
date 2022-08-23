@@ -17,7 +17,7 @@
       <LinkBtn link="https://xcidic.com/">Xcidic</LinkBtn>, as an Internship Front-end Developer.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      For further information, you can download my <LinkBtn href="/public/Vito Anggana Profile.pdf" download="CV Vito Anggana">CV</LinkBtn>.
+      For further information, you can download my <LinkBtn href="/public/Vito Anggana Profile.pdf" download="CV Vito Anggana.pdf">CV</LinkBtn>.
     </p>
 
   </div>
