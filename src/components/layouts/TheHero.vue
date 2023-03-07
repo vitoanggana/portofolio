@@ -10,16 +10,21 @@
       specialising in Web Development with HTML, CSS, JS.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
+      Currently an active student at <LinkBtn link="https://www.upi.edu/">Universitas Pendidikan Indonesia</LinkBtn>. My major however, its Pendidikan Bahasa Jepang. I'm also an Admin and Content Creator at on of their website at <LinkBtn link="https://jepang.upi.edu/">Here.</LinkBtn> Yes it's my major's website.
+    </p>
+    <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
       Beside than coding, I have experience working for
-      <LinkBtn link="https://mahakamedia.com/">Mahaka Media</LinkBtn>, as a Content Creator and Content Planner Freelancer and I manage 2 of
-      their Cafes <LinkBtn link="https://www.instagram.com/sixdegreesentul/">Six Degrees</LinkBtn> and <LinkBtn
+      <LinkBtn link="https://mahakamedia.com/">Mahaka Media</LinkBtn>, was a Content Creator and Content Planner Freelancer for their Cafe's <LinkBtn link="https://www.instagram.com/sixdegreesentul/">Six Degrees</LinkBtn> and <LinkBtn
         link="https://www.instagram.com/jatuhhati_sentul/">Jatuh Hati</LinkBtn>. And previously worked at
       <LinkBtn link="https://xcidic.com/">Xcidic</LinkBtn>, as an Internship Front-end Developer.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
       For further information, you can download my <LinkBtn href="/public/Vito Anggana Profile.pdf" download="CV Vito Anggana.pdf">CV</LinkBtn>.
     </p>
-    
+  <br>
+    <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
+      If you intrested in me personally, like, want to know what kind of person  I am. You can go here to read my <LinkBtn href="/diary">Diary. </LinkBtn>
+      </p>
 
   </div>
 </template>
