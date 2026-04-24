@@ -1,44 +1,20 @@
 <template>
   <div class="flex flex-col gap-8">
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      I am a Junior Web-Developer, as a someone who have graduated from Vocational Highschool with a Software
-      Engineering Major and also a year experience as a Programmer in several company. I still have a lot to learn,
-      currently I am a Freelance Programmer looking for another chance where I can learn and gain experience.
+      I am a final-year Japanese Language Education student with a diverse background in web development, content creation, and international work experience in Japan.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      Beside than coding, I have experience working for
-      <LinkBtn link="https://mahakamedia.com/">Mahaka Media</LinkBtn>, as a Content Creator and Content Planner
-      Freelancer and I manage 2 of
-      their Cafes <LinkBtn link="https://www.instagram.com/sixdegreesentul/">Six Degrees</LinkBtn> and <LinkBtn
-        link="https://www.instagram.com/jatuhhati_sentul/">Jatuh Hati</LinkBtn>. I previously worked at
-      <LinkBtn link="https://xcidic.com/">Xcidic</LinkBtn>, as an Internship Front-end Developer.
+      I started my journey in software engineering during vocational high school, where I built a foundation in web development using HTML, CSS, and JavaScript. Along the way, I also explored modern tools and frameworks while working on freelance and internship projects.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      I started learning about web-development in my early high-school, where I
-      was introduced to HTML and CSS. I quickly started writing small webpages
-      with simple HTML and little of CSS. After my high-school, I took some time
-      to myself and explored the web development world more and found many
-      frameworks. Like Laravel, Out of all, I found my love for Vue.js. Since then, I've been
-      mastering it, and with every new project I added a new tool, like
-      TailwindCSS and more.
+      Beyond tech, I have experience as a content creator and planner, producing engaging digital content and managing social media for brands. I also spent one year working in Japan, where I delivered customer service in Japanese and adapted to a fast-paced, cross-cultural environment.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      You can find my projects on my
-      <LinkBtn link="https://github.com/vitoanggana">Github</LinkBtn> or on my
-      <LinkBtn href="/public/Vito Anggana Profile.pdf" download="CV Vito Anggana">CV</LinkBtn>. I usually don't update
-      my
-      portfolio page but all my recent one's are on github.
+      Today, I focus on combining my language skills, digital experience, and adaptability to explore new opportunities and continue growing both professionally and personally.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      Though now i've spent less time to code because I'm a Content Creator/Planner Freelancer at two cafes. But still
-      I'm interested to this position.
-    </p>
-    <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      Outside of my worklife, I love to play Valorant and Apex legends, listening to
-      Eve, Yorushika, Yoasobi. on Youtube, or just hanging out on Discord with my friends. You can
-      follow along about my life on my
-      <LinkBtn link="https://www.instagram.com/vitooooooo.lol/">Instagram</LinkBtn>
-      or <LinkBtn link="https://www.facebook.com/profile.php?id=100070325343819">Facebook</LinkBtn>. I
+      Outside of my worklife, I love to play Games, Currently playing Crimson Desert on PS5 Pro (im very proud of this). I also listening to different genres of music, my fav western band is Rex Orange County, solo artist is Sufjan Steven and Grant Perez.
+      or add me through <LinkBtn link="https://www.facebook.com/profile.php?id=100070325343819">Facebook</LinkBtn>. I
       post very rarely so you might not find many posts on either.
     </p>
     <hr class="bg-squgily bg-repeat border-0 h-[6px] opacity-25 my-6" />

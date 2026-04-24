@@ -11,10 +11,15 @@
         link="https://www.facebook.com/profile.php?id=100070325343819"
         icon="ant-design:facebook-filled"
       />
-      <SocialIcon
+      <!-- <SocialIcon
         title="Instagram"
         link="https://www.instagram.com/vitooooooo.lol/"
         icon="ant-design:instagram-filled"
+      /> -->
+      <SocialIcon
+        title="Linkedin"
+        link="https://www.linkedin.com/in/vito-anggana-3169b7191"
+        icon="ant-design:linkedin-filled"
       />
     </div>
     <ActionButton link="mailto:vitoangganaprawira@gmail.com">Email Me</ActionButton>
