@@ -36,8 +36,15 @@
       In web development, I build responsive interfaces using HTML, CSS, and JavaScript. I have also worked as a content creator and planner, producing engaging digital content.
     </p>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      For further information, you can download my <LinkBtn href="/public/Vito Anggana Profile.pdf" download="CV Vito Anggana.pdf">CV</LinkBtn>.
-    </p>
+  For further information, you can download my
+  <a
+    href="/vito2026.pdf"
+    download="CV Vito Anggana.pdf"
+    class="text-link_text_hover"
+  >
+    CV
+  </a>.
+</p>
   <br>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
       If you interested in me personally, like, want to know what kind of person  I am. You can go here to read my <LinkBtn href="/diary">Diary. </LinkBtn>
