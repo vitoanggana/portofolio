@@ -5,7 +5,7 @@
       Diar<span class="text-link_text_hover">.</span>y
     </h1>
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
-      HIII EVEYRONEEEASEASEASE, im vito, if youre here then you either my friends or just someone that have interest in me ausehuaseh (which is rarely happen).
+      HIII EVEYRONEEEASEASEASE, im vito, if youre here then you either my friends or just someone that have interest in me ausehuaseh (please hire me ASAP).
     </p>
     
 
