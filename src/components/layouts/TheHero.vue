@@ -38,8 +38,8 @@
     <p class="text-sm md:text-base leading-relaxed slg:text-lg lg:leading-loose">
   For further information, you can download my
   <a
-    href="/vito2026.pdf"
-    download="CV Vito Anggana.pdf"
+    href="/vito26.pdf"
+    download="CV VITO ANGGANA.pdf"
     class="text-link_text_hover"
   >
     CV
